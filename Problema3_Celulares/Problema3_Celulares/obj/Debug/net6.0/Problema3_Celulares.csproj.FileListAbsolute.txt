@@ -1,0 +1,14 @@
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\bin\Debug\net6.0\Problema3_Celulares.exe
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\bin\Debug\net6.0\Problema3_Celulares.deps.json
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\bin\Debug\net6.0\Problema3_Celulares.runtimeconfig.json
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\bin\Debug\net6.0\Problema3_Celulares.dll
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\bin\Debug\net6.0\Problema3_Celulares.pdb
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.AssemblyInfoInputs.cache
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.AssemblyInfo.cs
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.csproj.CoreCompileInputs.cache
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.dll
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\refint\Problema3_Celulares.dll
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.pdb
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\Problema3_Celulares.genruntimeconfig.cache
+D:\ShiptoStudios\Trabajos de proyecto y estudio\Programacion\SoloLearn\C#\Practica Aux\Problema1_Clase_Estatica\Problema3_Celulares\Problema3_Celulares\obj\Debug\net6.0\ref\Problema3_Celulares.dll
